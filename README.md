@@ -6,7 +6,7 @@ The **BMI Calculator App** is a simple and user-friendly tool that calculates yo
 
 ## 🚀 Live Demo
 
-You can view the live app here: [BMI Calculator App](https://your-live-link.com)  
+You can view the live app here: [BMI Calculator App](https://sum500.github.io/BMI-CALCULATOR/)  
 
 
 ---
